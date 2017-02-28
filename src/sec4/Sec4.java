@@ -17,6 +17,7 @@ public class Sec4 {
     public static void main(String[] args) {
         // TODO code application logic here
         int x;
+        int z;
         System.out.println("hello world");
     }
     
