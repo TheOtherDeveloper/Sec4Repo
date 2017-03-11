@@ -11,5 +11,7 @@ package sec4;
  * @author Hadeel
  */
 public class NewClass {
-    int x = 0;        
+    int x = 0;   
+    
+    public void TheNewMethodISuggest(){}
 }
