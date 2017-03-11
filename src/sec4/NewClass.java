@@ -11,5 +11,5 @@ package sec4;
  * @author Hadeel
  */
 public class NewClass {
-    
+    int x = 0;        
 }
