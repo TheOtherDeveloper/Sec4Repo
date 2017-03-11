@@ -18,9 +18,7 @@ public class Sec4 {
         // TODO code application logic here
         int x;
         int z;
-        int y;
         System.out.println("hello world");
-        System.out.println("Hello Again");
     }
     
 }
